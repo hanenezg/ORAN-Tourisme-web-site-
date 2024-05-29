@@ -1,0 +1,48 @@
+.bus-title {
+    margin-top: 20px;
+    color: black;
+    width: 300px;
+    margin-left: 420px;
+    background-color: rgb(163, 187, 200);
+}
+
+.bus-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bus-table th, .bus-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.bus-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.bus-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.bus-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.bus-table th, .bus-table td {
+    padding: 12px 15px;
+}
+
+.bus-table th {
+    background-color: rgb(163, 187, 200);
+    color: white;
+    text-align: center;
+}
+
+.bus-table td {
+    text-align: center;
+}

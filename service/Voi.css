@@ -1,0 +1,55 @@
+.mai{
+    padding:10px;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 1000px;
+    margin-left: 100px;
+}
+.h{
+    background-color: rgb(163, 187, 200);
+    color: black;
+    width: 300px;
+    margin-left: 350px;
+}
+.mai p{
+    margin-top: 20px;
+    color: black;
+    margin-bottom: 40px;
+}
+.cont{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.voiture-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .voiture-container h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: black;
+    background: #fff;
+  }
+  .voi-paragraph {
+    margin-top: 10px;
+    color: black;
+  }
+  .voi-title {
+    margin-bottom: 5px;
+  }
+  .voiture-container img {
+    max-width: 100px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  .voiture-container a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .voiture-container a:hover {
+    text-decoration: underline;
+  }
+  
